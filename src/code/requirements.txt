@@ -1,0 +1,4 @@
+gymnasium
+gymnasium[classic-control]
+tensorflow==2.12
+matplotlib
