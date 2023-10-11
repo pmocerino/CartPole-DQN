@@ -1,1 +1,2 @@
 # CartPole-DQN
+This repository contains the implementation of a Reinforcement Learning Agent based on Deep Q-learning. The agent was implemented with Gymnasium (formerly OpenAI Gym) project, which provides an API for all single agent RL environments. In detail, I chose the Cart Pole environment, part of the Classic Control set. The agent uses a DQN (Deep Q-Network) to approximate the Q-function, and the Experience Replay technique is implemented. A fully detailed report is also provided.
